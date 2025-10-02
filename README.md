@@ -36,3 +36,11 @@ Install from PyPI:
 
 ```bash
 pip install estimatePDF
+
+## Citation
+
+If you use this code or the data in your research, please cite our preprint:
+
+Shantanu Sarkar, Mousumi Sinha, and Dexter Cahoy.
+A Benchmark Study of Classical and Dual Polynomial Regression (DPR)-Based Probability Density Estimation Techniques.
+Preprint, Computational Statistics (Springer Nature). Manuscript under review
